@@ -1,0 +1,25 @@
+---
+title: "5508 Hammersley Lawn renovation"
+date: "Friday June 3, 2022"
+mainfont: Roboto
+output:
+  pdf_document:
+    latex_engine: xelatex
+---
+
+
+## Skid loader, tiller, trailer 
+
+- Pick up from Lincoln contractor supply 7 AM at [4414 Terminal Dr. McFarland, WI](https://goo.gl/maps/z2m2kzjtvRKcAvdX8)
+
+- Return by 5 PM or Saturday 7 AM
+
+- spoke w/ Chris 2022-05-02 to reserve 
+
+## Powered slit-seeder 
+
+- Pick up from A-Z rentals 7:30 AM at [2209 S. Stoughton Rd. Madison WI](https://goo.gl/maps/z2m2kzjtvRKcAvdX8)
+
+- Return by 5 PM same day (NOT open on weekends)
+
+- spoke w/ Todd 2022-05-02 to reserve 
